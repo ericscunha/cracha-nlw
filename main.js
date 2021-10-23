@@ -1,7 +1,7 @@
 const linksSocialMedia = {
   github: 'ericscunha',
   youtube: 'ericbaiano',
-  facebook: 'ericscunha',
+  facebook: 'eric.silva.3192',
   instagram: 'ericscunha',
   twitter: 'ericcunha'
 }
